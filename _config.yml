@@ -1,7 +1,7 @@
 name: kjj
 favicon: null
-layout_spectrum: 0.39422512287274003
-typography_spectrum: 0.8248380711302161
+layout_spectrum: 0.95349
+typography_spectrum: 0.64288
 title: tryna lern
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.7771454015746713
+  brandStrength: 0
   lightness: 0.1582289207726717
-  saturation: 0.8912659990601242
+  saturation: 0.875
   rhythmicContrast: 0.5671410912182182
 purpose: []
